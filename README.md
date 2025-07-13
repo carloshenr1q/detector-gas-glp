@@ -61,6 +61,7 @@ Conecte os componentes ao ESP32 DEVKITV1 da seguinte forma:
 
 <img src="https://drive.google.com/uc?export=view&id=1OBRSQ4ESibNGVsIuGQmXRkdpcuH6eBZC"></img>
 </details>
+
 ## 📝 Configuração do Código
 
 Antes de carregar o código no seu ESP32, você **precisa** editar as seguintes linhas no topo do arquivo `.ino`:
