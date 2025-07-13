@@ -82,7 +82,7 @@ const char* CHAT_ID = "SEU_CHAT_ID_AQUI";
 ## 📊 Fluxograma do Sistema
 
 <details>
-<summary style="color:#2A7AEF;">Clique para ver o Fluxograma Operacional</summary>
+<summary color=#2A7AEF">Clique para ver o Fluxograma Operacional</summary>
 
 <img width=410px src="https://drive.google.com/uc?export=view&id=19N0nF6CgvDnGPq1t4TJmZ9oIGsbsNQre"></img> <img width=410px src="https://drive.google.com/uc?export=view&id=1vyU5ibvtZqL3aClBi25MU3r3wDiiUXyH"></img> 
 
