@@ -84,6 +84,6 @@ const char* CHAT_ID = "SEU_CHAT_ID_AQUI";
 <details>
 <summary>Clique para ver o Fluxograma Operacional</summary>
 
-<img src="https://drive.google.com/uc?export=view&id=19N0nF6CgvDnGPq1t4TJmZ9oIGsbsNQre"></img> <img src="https://drive.google.com/uc?export=view&id=1vyU5ibvtZqL3aClBi25MU3r3wDiiUXyH"></img> 
+<img width=250px src="https://drive.google.com/uc?export=view&id=19N0nF6CgvDnGPq1t4TJmZ9oIGsbsNQre"></img> <img width=250px src="https://drive.google.com/uc?export=view&id=1vyU5ibvtZqL3aClBi25MU3r3wDiiUXyH"></img> 
 
 </details>
